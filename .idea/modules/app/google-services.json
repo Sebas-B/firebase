@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820301160044",
+    "firebase_url": "https://proydiario-eb15d-default-rtdb.firebaseio.com",
+    "project_id": "proydiario-eb15d",
+    "storage_bucket": "proydiario-eb15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820301160044:android:f295e8b947b82d500bc249",
+        "android_client_info": {
+          "package_name": "com.utng.simplefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820301160044-bgukegnr2dbrvueisspa2e4g9040618h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utng.simplefirebase",
+            "certificate_hash": "e804db6419bee634ce636a24a68d424431e13c53"
+          }
+        },
+        {
+          "client_id": "820301160044-purg7cmqfvhll13ao68202vboh62pjes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw8aJQpoj5uHmaztUwH-7aXNqz54MEQZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820301160044-purg7cmqfvhll13ao68202vboh62pjes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
